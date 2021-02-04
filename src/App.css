@@ -10,6 +10,13 @@
 .nav_bar_wrapper a{
   padding-left: 30px;
 }
+.delete{
+  background-color: #a90b0b;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
