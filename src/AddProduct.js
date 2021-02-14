@@ -17,9 +17,7 @@ function AddProduct() {
       body: formData
     });
     alert("Data has been saved")
-
-
-  }
+    }
   return (
     <div>
       <Header />
